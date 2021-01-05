@@ -37,4 +37,6 @@ body {
   position: absolute;
   top: 1.2rem;
   right: 2rem;
+  font-size: 5rem;
+  color: #333;
 }
